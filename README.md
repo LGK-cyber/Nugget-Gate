@@ -1,2 +1,0 @@
-# Nugget-Gate
-Nugget Apokalypse

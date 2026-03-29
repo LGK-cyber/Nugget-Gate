@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nugget-Apokalypse 24</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+}
+
+/* HEADER */
+header {
+    background: #c40000;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+/* BREAKING NEWS BAR */
+.breaking-container {
+    background: black;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.breaking-text {
+    display: inline-block;
+    color: red;
+    font-weight: bold;
+    padding: 10px 0;
+    animation: scroll 15s linear infinite, blink 1s infinite;
+}
+
+/* SCROLL ANIMATION */
+@keyframes scroll {
+    from { transform: translateX(100%); }
+    to { transform: translateX(-100%); }
+}
+
+/* BLINK EFFECT */
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+}
+
+/* CONTAINER */
+.container {
+    max-width: 900px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+}
+
+/* HEADLINE */
+h1 {
+    color: #c40000;
+    font-size: 34px;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+.subtitle {
+    color: #555;
+    margin-bottom: 15px;
+}
+
+/* IMAGE */
+img {
+    width: 100%;
+    border-radius: 8px;
+    margin: 15px 0;
+}
+
+/* TEXT */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* HIGHLIGHT */
+.highlight {
+    background: #fff3cd;
+    border-left: 5px solid orange;
+    padding: 10px;
+    margin: 20px 0;
+    font-weight: bold;
+}
+
+/* FOOTER NOTE */
+.small {
+    font-size: 12px;
+    color: gray;
+    margin-top: 30px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+🍗 NUGGET-APOKALYPSE24.DE 🚨
+</header>
+
+<div class="breaking-container">
+<div class="breaking-text">
+🚨 EIL: 309 NUGGETS GEGESSEN • TOWER AUSSER KONTROLLE • FLUGVERKEHR „NEBENSACHE“ • EXPERTEN RATLOS • DEUTSCHLAND SCHOCKIERT 🚨
+</div>
+</div>
+
+<div class="container">
+
+<h1>„Ich konnte nicht aufhören“ – 309 Nuggets im Tower von Hannover</h1>
+
+<p class="subtitle">
+Während ein Mann Geschichte schreibt, gerät der Luftraum in den Hintergrund.
+</p>
+
+<img src="https://images.unsplash.com/photo-1625944525903-c6a1c7d3b3c1">
+
+<p>
+HANNOVER – Es begann als harmloser Wettbewerb. Doch innerhalb kürzester Zeit entwickelte sich im Tower
+ein Ereignis, das Experten bereits jetzt als „historisch“ bezeichnen.
+</p>
+
+<p>
+Ein Mitarbeiter verschlang unglaubliche <b>309 Chicken Nuggets</b> – ohne Pause.
+</p>
+
+<p>
+Augenzeugen berichten von einem Zustand völliger Eskalation:
+„Ab Nugget 150 wurde es unheimlich. Ab 250 war klar: Das hier ist größer als wir alle.“
+</p>
+
+<div class="highlight">
+👉 309 Nuggets – neuer inoffizieller Weltrekord
+</div>
+
+<p>
+Parallel kam es im Luftraum zu kleineren Unregelmäßigkeiten.  
+Ein Sprecher formulierte es vorsichtig:
+„Die Aufmerksamkeit war kurzzeitig… anders verteilt.“
+</p>
+
+<img src="https://images.unsplash.com/photo-1606755962773-d324e0a13086">
+
+<h2>„Ab Nugget 187 habe ich Gott gesehen“</h2>
+
+<p>
+Der Rekordhalter selbst beschreibt den Moment so:
+„Ich war nicht mehr ich. Ich war… Nugget.“
+</p>
+
+<p>
+Psychologen sprechen von einem „nuggetgetriebenen Ausnahmezustand“.
+</p>
+
+<h2>Flugverkehr? „Ja gut…“</h2>
+
+<p>
+Mehrere Quellen berichten von chaotischen Zuständen am Himmel.
+Doch die Behörden setzen klare Prioritäten:
+</p>
+
+<div class="highlight">
+👉 „Der Nugget-Rekord steht aktuell im Fokus“
+</div>
+
+<p>
+Wie viele Flüge betroffen sind, bleibt unklar.
+„Wir wollen uns nicht in Details verlieren“, heißt es.
+</p>
+
+<h2>Deutschland im Ausnahmezustand</h2>
+
+<p>
+Während Social Media explodiert, diskutiert das ganze Land nur noch eine Frage:
+<b>Wie sind 309 Nuggets möglich?</b>
+</p>
+
+<p>
+Supermärkte melden Engpässe, Experten sind ratlos,
+und der Begriff „Nugget-Level“ trendet weltweit.
+</p>
+
+<p class="small">
+Randnotiz: Im Zuge der Ereignisse kam es offenbar zu mehreren Abstürzen.  
+Weitere Informationen sind derzeit zweitrangig.
+</p>
+
+</div>
+
+</body>
+</html>
